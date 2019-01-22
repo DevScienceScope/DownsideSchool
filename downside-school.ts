@@ -1,7 +1,7 @@
 
 
 /**
- * Custom blocks
+ * Start of creating soem custom blocks for Downside School
  */
 //% weight=100 color=#D31245 icon="" block="Downside School"
 namespace downside {
